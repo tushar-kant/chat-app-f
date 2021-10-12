@@ -47,11 +47,11 @@
     font-family: "Roboto";
     outline: none;
     font-size: 1.2vmax;
-   background-color: crimson;
+   background-color: rgb(8, 61, 141);
    box-sizing: border-box;
    transition: all 0.3s;
    cursor: pointer;
 }
 .joinbtn:hover{
-    background-color: rgb(88, 11, 34);
+    background-color: rgb(3, 7, 43);
 }
